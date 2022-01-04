@@ -1,0 +1,2 @@
+implementation 'com.fathzer:javaluator:3.0.3' in the module gradle file
+Double result = new DoubleEvaluator().evaluate(expression);
